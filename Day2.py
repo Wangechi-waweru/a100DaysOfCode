@@ -9,4 +9,3 @@ no_of_people = int(input("How many people to split the bill?"))
 each_person_pays = round(total_pay / no_of_people, 2)
 
 print(f"Each person should pay: ${each_person_pays}")
-
