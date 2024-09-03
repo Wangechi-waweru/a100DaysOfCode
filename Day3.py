@@ -44,7 +44,3 @@ if left_or_right.upper() == "L":
         print("You got attacked by a shark! Game Over!")
 else:
     print("You fell into a well! Game Over!")
-
-
-
-
